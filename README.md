@@ -22,7 +22,7 @@
 
 
 # 프로젝트 구성 
-[보글 구성 Velog](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C).
+[보글 구성 및 기술소개 Velog](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C).
 
 (5개월의 자바 웹 프로그래밍 과정에서 배운 기술을 통해 5명의 팀원과 협업하여 웹 개발)
 
