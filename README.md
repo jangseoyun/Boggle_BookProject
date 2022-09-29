@@ -62,7 +62,7 @@ Build tool : Maven<br>
   - 알라딘 API
 
 # 프로젝트 소개 영상
-
+[페르소나로 보는 웹페이지 영상](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%98%81%EC%83%81%EC%9C%BC%EB%A1%9C%EB%B3%B4%EB%8A%94-%EC%99%84%EC%84%B1-%ED%8E%98%EC%9D%B4%EC%A7%80)
 
 ---
 
