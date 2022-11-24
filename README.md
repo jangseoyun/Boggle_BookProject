@@ -24,10 +24,10 @@
 🟦 BackEnd<br>
 Language/Skills: JAVA 8, SQL, JSP & Servlet, jQuery<br>
 Build tool: Maven<br>
-ORM: Mybatis<br>
+ORM: Mybatis 3.2.2<br>
 IDE: Ecliplse<br>
 Server: Apache-Tomcat<br>
-Framework: Spring
+Framework: Spring 4.3.3
 Library: JSTL<br>
 DB: Oracle<br>
 
