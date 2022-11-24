@@ -1,7 +1,7 @@
 # Boggle [보글: 보다 글을] 
 [📘 보글 프로젝트 블로그](https://velog.io/@may_yun/series/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%B3%B4%EA%B8%80%EB%B3%B4%EB%8B%A4%EA%B8%80%EC%9D%84)
 
-[보글 기획 Velog](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-Front-End).
+[보글 기획](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-Front-End).
 
 독서가 너무 멀게만 느껴지시나요?<br>
 멍 때리면서 슥-! 마음을 울리는 보글을 추천합니다<br>
@@ -10,7 +10,7 @@
 ---
 
 # 프로젝트 구성 
-[보글 구성 및 기술소개 Velog](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C).
+[보글 구성 및 기술소개](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%EC%88%A0-%EC%86%8C%EA%B0%9C).
 
 (5개월의 자바 웹 프로그래밍 과정에서 배운 기술을 통해 5명의 팀원과 협업하여 웹 개발)
 
