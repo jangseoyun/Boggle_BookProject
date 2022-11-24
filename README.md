@@ -1,4 +1,6 @@
-# Boggle [보글: 보다 글을]
+# Boggle [보글: 보다 글을] 
+[📘 보글 프로젝트 블로그](https://velog.io/@may_yun/series/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%B3%B4%EA%B8%80%EB%B3%B4%EB%8B%A4%EA%B8%80%EC%9D%84)
+
 [보글 기획 Velog](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-Front-End).
 
 독서가 너무 멀게만 느껴지시나요?<br>
@@ -52,6 +54,11 @@ DB: Oracle<br>
 
 # 프로젝트 소개 영상
 [페르소나로 보는 웹페이지 영상](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle-%EC%84%9C%ED%8F%89-%EC%9E%AC%EC%83%9D-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%98%81%EC%83%81%EC%9C%BC%EB%A1%9C%EB%B3%B4%EB%8A%94-%EC%99%84%EC%84%B1-%ED%8E%98%EC%9D%B4%EC%A7%80)
+
+---
+
+# 회고
+[팀 프로젝트 회고](https://velog.io/@may_yun/3%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B2%AB-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Boggle%EC%9D%98-%ED%8C%80-%ED%9A%8C%EA%B3%A0-KPT)
 
 ---
 
