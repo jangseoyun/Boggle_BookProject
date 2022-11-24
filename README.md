@@ -24,14 +24,14 @@
 ## 사용 언어 및 주요기능
 
 🟦 BackEnd<br>
-Language/Skills: JAVA 8, SQL, JSP & Servlet, jQuery<br>
-Build tool: Maven<br>
-ORM: Mybatis 3.2.2<br>
-IDE: Ecliplse<br>
-Server: Apache-Tomcat<br>
-Framework: Spring 4.3.3<br>
-Library: JSTL<br>
-DB: Oracle<br>
+- Language/Skills: JAVA 8, SQL, JSP & Servlet, jQuery<br>
+- Build tool: Maven<br>
+- ORM: Mybatis 3.2.2<br>
+- IDE: Ecliplse<br>
+- Server: Apache-Tomcat<br>
+- Framework: Spring 4.3.3<br>
+- Library: JSTL<br>
+- DB: Oracle<br>
 
 🟦 FrontEnd : HTML / CSS / JavaScript / bootstrap<br>
 🟦 협업 도구 : GitHub / Discode<br>
